@@ -48,3 +48,14 @@ people = [pep1, pep2]
 
 print(get_minmax_people_with_parameter(people, max, 'height'))
 ```
+
+## Education
+
+* **University:** Institute of Space and Information Technologies, Siberian Federal University
+* **Courses:** 
+    * [HTML Academy](https://htmlacademy.ru)
+    * [RS School](https://rs.school) (In process...)
+
+## Languages:
+* **English** - B1 Intermediate/B2 Upper-intermediate (according to the online test at [EF SET](https://www.efset.org))
+* **Russian** - Native

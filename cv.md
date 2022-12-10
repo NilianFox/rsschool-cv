@@ -24,3 +24,27 @@ I am 22 years old. I have been studying programming for quite a long time. I do 
 * Windows OS, Linux(Ubuntu)
 * C# (Basic), Python (Advanced) 
 * Editors: Visual Studio, VSCode, PyCharm, Atom
+
+## Code example
+
+**JavaScript:**
+```javascript
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+```
+**Python:**
+```Python
+def get_minmax_people_with_parameter(people, func, param):
+    names = ([item['name'] for item in people if item[param] == (func(d[param] for d in people))])
+    names.sort(key=str.lower)
+    return names
+pep1 = {'name': 'Fred', 'age': 24, 'weight': 45, 'height': 160}
+pep2 = {'name': 'German', 'age': 31, 'weight': 60, 'height': 180}
+people = [pep1, pep2]
+
+print(get_minmax_people_with_parameter(people, max, 'height'))
+```

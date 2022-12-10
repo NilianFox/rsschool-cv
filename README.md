@@ -1,1 +1,1 @@
-https://NilianFox.github.io/rsschool-cv-html/
+https://NilianFox.github.io/rsschool-cv/
